@@ -1,6 +1,9 @@
 CODE BOOK 
 ================
 
+Subject: Person observed during experiment
+Activity_dat: Activity occuring when observation point was taken
+
 Mean 
 ________________________
 tBodyAcc-mean()-X: Accelerometer signal for body acceleration X axial          
