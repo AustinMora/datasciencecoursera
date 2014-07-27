@@ -1,0 +1,88 @@
+CODE BOOK 
+================
+
+Mean 
+________________________
+tBodyAcc-mean()-X: Accelerometer signal for body acceleration X axial          
+tBodyAcc-mean()-Y: Accelerometer signal for body acceleration Y axial          
+tBodyAcc-mean()-Z: Accelerometer signal for body acceleration Z axial 
+
+tGravityAcc-mean()-X: Accel. signal for gravity acceleration X axial      
+tGravityAcc-mean()-Y: Accel. signal for gravity acceleration Y axial        
+tGravityAcc-mean()-Z: Accel. signal for gravity acceleration Z axial 
+
+tBodyAccJerk-mean()-X: Accel. signal for body jerk acceleration X axial        
+tBodyAccJerk-mean()-Y: Accel. signal for body jerk acceleration Y axial      
+tBodyAccJerk-mean()-Z: Accel. signal for body jerk acceleration Z axial
+
+tBodyGyro-mean()-X: Gyroscope signal for body acceleration X axial         
+tBodyGyro-mean()-Y: Gyroscope signal for body acceleration Y axial          
+tBodyGyro-mean()-Z: Gyroscope signal for body acceleration Z axial         
+
+tBodyGyroJerk-mean()-X: Gyroscope signal for body jerk acceleration X axial
+tBodyGyroJerk-mean()-Y: Gyroscope signal for body jerk acceleration Y axial     
+tBodyGyroJerk-mean()-Z: Gyroscope signal for body jerk acceleration Z axial
+
+tBodyAccMag-mean(): Accel. signal for body acceleration magnitude   
+tGravityAccMag-mean(): Accel. signal for grav. acceleration magn.        
+tBodyAccJerkMag-mean(): Accel. signal for body jerk acceleration magn
+tBodyGyroMag-mean(): Gyro. signal for body acceleration magnitude
+tBodyGyroJerkMag-mean(): Gyro. signal for body jerk acceleration magnitude  
+
+(f-prefix denotes measurements where Fast Fourier Transform was applied)
+
+fBodyAcc-mean()-X           
+fBodyAcc-mean()-Y          
+fBodyAcc-mean()-Z           
+fBodyAccJerk-mean()-X      
+fBodyAccJerk-mean()-Y       
+fBodyAccJerk-mean()-Z      
+fBodyGyro-mean()-X          
+fBodyGyro-mean()-Y         
+fBodyGyro-mean()-Z          
+fBodyAccMag-mean()         
+fBodyBodyAccJerkMag-mean()  
+fBodyBodyGyroMag-mean()    
+fBodyBodyGyroJerkMag-mean() 
+
+Standard Deviation
+________________________
+tBodyAcc-std()-X           
+tBodyAcc-std()-Y            
+tBodyAcc-std()-Z
+
+tGravityAcc-std()-X         
+tGravityAcc-std()-Y        
+tGravityAcc-std()-Z 
+
+tBodyAccJerk-std()-X       
+tBodyAccJerk-std()-Y        
+tBodyAccJerk-std()-Z
+
+tBodyGyro-std()-X           
+tBodyGyro-std()-Y          
+tBodyGyro-std()-Z   
+
+tBodyGyroJerk-std()-X      
+tBodyGyroJerk-std()-Y       
+tBodyGyroJerk-std()-Z   
+
+tBodyAccMag-std()           
+tGravityAccMag-std()       
+tBodyAccJerkMag-std()       
+tBodyGyroMag-std()         
+tBodyGyroJerkMag-std()
+
+fBodyAcc-std()-X           
+fBodyAcc-std()-Y            
+fBodyAcc-std()-Z           
+fBodyAccJerk-std()-X        
+fBodyAccJerk-std()-Y       
+fBodyAccJerk-std()-Z        
+fBodyGyro-std()-X          
+fBodyGyro-std()-Y           
+fBodyGyro-std()-Z          
+fBodyAccMag-std()          
+fBodyBodyAccJerkMag-std()  
+fBodyBodyGyroMag-std()      
+fBodyBodyGyroJerkMag-std()
